@@ -1,0 +1,16 @@
+*{
+    background-color: thistle;
+}
+h1 {
+    background-color: #f06d06;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 50px;
+    color:steelblue;
+    font-family: Fantasy, Copperplate, monospace;
+}
+body{
+    padding-top: 70px;
+    background-color: thistle;
+}
+
