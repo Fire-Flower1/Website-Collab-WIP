@@ -7,10 +7,10 @@ h1 {
     padding-bottom: 50px;
     font-size: 50px;
     color:steelblue;
-    font-family: Fantasy, Copperplate;
+    font-family: "Copperplate", fantasy, monospace;
 }
 body{
     padding-top: 70px;
-    background-color: thistle;
+    background-color: white;
 }
 
